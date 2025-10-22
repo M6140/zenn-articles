@@ -1,7 +1,7 @@
 ---
-title: "設計者型支援ポートフォリオ紹介"
-emoji: "🎉"
-type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
-published: false
+title: 設計者支援支援サポートファイル紹介
+emoji: 🧑‍💻
+type: tech
+topics: ["portfolio", "consulting", "design"]
+published: true
 ---
