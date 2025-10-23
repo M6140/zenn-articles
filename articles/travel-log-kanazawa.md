@@ -14,13 +14,18 @@ published: true
 
 Surface Pro 12とMacBook Air M4の同時運用構成。NovaPort TRIOⅡ 140Wで静音充電設計。
 
-## phase2：移動と構造
-
-金沢でコ゚‐！！  
-静音な移動と人間味の挿入。構造と温度の両立。
+## Phase 2：移動と構造  
+移動は新幹線を選択。静音性と電源確保を重視し、座席選定とデバイス配置を事前に設計。  
+NovaPort TRIO II 140WでSurface Pro 12とMacBook Air M4を同時充電しながら、旅の構造を記録。
 
 ## phase3：記録と教材化
 
 旅ログは教材資産。信頼設計の一部としてObsidianVaultsに記録。
+
+
+この記録は、今後の糸島・姪浜移住や教材資産化に応用される予定です。  
+同様の構造で旅を記録したい方は、ObsidianVaultsのテンプレート群をご参照ください。
+
+
 
 
